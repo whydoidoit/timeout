@@ -1,4 +1,4 @@
-import update from 'update'
+import update from 'playcanvas-update-fn'
 
 let app = pc.Application.getApplication()
 
